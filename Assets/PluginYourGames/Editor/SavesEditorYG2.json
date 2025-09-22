@@ -1,0 +1,14 @@
+{
+    "intExample": 5,
+    "strExample": "Hello!",
+    "boolExample": [
+        false,
+        false,
+        false,
+        false
+    ],
+    "idSave": 87,
+    "level": 3,
+    "soundEnabled": true,
+    "language": 1
+}

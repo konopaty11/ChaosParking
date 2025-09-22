@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &4461305496792052841
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 879946127649307290, guid: da85788d53f51144c8028db0f58d8910, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 879946127649307290, guid: da85788d53f51144c8028db0f58d8910, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 879946127649307290, guid: da85788d53f51144c8028db0f58d8910, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 879946127649307290, guid: da85788d53f51144c8028db0f58d8910, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 879946127649307290, guid: da85788d53f51144c8028db0f58d8910, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 879946127649307290, guid: da85788d53f51144c8028db0f58d8910, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 879946127649307290, guid: da85788d53f51144c8028db0f58d8910, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 879946127649307290, guid: da85788d53f51144c8028db0f58d8910, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 879946127649307290, guid: da85788d53f51144c8028db0f58d8910, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 879946127649307290, guid: da85788d53f51144c8028db0f58d8910, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6667753916021578118, guid: da85788d53f51144c8028db0f58d8910, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6667753916021578120, guid: da85788d53f51144c8028db0f58d8910, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6667753916021578122, guid: da85788d53f51144c8028db0f58d8910, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6667753916021578124, guid: da85788d53f51144c8028db0f58d8910, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6667753916021578126, guid: da85788d53f51144c8028db0f58d8910, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6667753916023682854, guid: da85788d53f51144c8028db0f58d8910, type: 3}
+      propertyPath: m_TagString
+      value: StopTag
+      objectReference: {fileID: 0}
+    - target: {fileID: 7838622382615488908, guid: da85788d53f51144c8028db0f58d8910, type: 3}
+      propertyPath: m_Name
+      value: taxi muscle Variant Variant Variant Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 7838622382615488908, guid: da85788d53f51144c8028db0f58d8910, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7838622382615488908, guid: da85788d53f51144c8028db0f58d8910, type: 3}
+      propertyPath: m_TagString
+      value: CarRoad
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 6315515977372702539, guid: da85788d53f51144c8028db0f58d8910, type: 3}
+    - {fileID: 6483781017156240656, guid: da85788d53f51144c8028db0f58d8910, type: 3}
+    - {fileID: 74369595843588856, guid: da85788d53f51144c8028db0f58d8910, type: 3}
+    - {fileID: 1265719065712469757, guid: da85788d53f51144c8028db0f58d8910, type: 3}
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: da85788d53f51144c8028db0f58d8910, type: 3}

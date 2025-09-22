@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &3754369656552340813
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 602970649487047546, guid: 8de93ecc5acfba747be67b3389b844cf, type: 3}
+      propertyPath: m_TagString
+      value: StopTag
+      objectReference: {fileID: 0}
+    - target: {fileID: 602970649489135064, guid: 8de93ecc5acfba747be67b3389b844cf, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 602970649489135068, guid: 8de93ecc5acfba747be67b3389b844cf, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 602970649489135070, guid: 8de93ecc5acfba747be67b3389b844cf, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4771915721758741930, guid: 8de93ecc5acfba747be67b3389b844cf, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4771915721758741930, guid: 8de93ecc5acfba747be67b3389b844cf, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4771915721758741930, guid: 8de93ecc5acfba747be67b3389b844cf, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4771915721758741930, guid: 8de93ecc5acfba747be67b3389b844cf, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4771915721758741930, guid: 8de93ecc5acfba747be67b3389b844cf, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4771915721758741930, guid: 8de93ecc5acfba747be67b3389b844cf, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4771915721758741930, guid: 8de93ecc5acfba747be67b3389b844cf, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4771915721758741930, guid: 8de93ecc5acfba747be67b3389b844cf, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4771915721758741930, guid: 8de93ecc5acfba747be67b3389b844cf, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4771915721758741930, guid: 8de93ecc5acfba747be67b3389b844cf, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5074734967765630289, guid: 8de93ecc5acfba747be67b3389b844cf, type: 3}
+      propertyPath: m_Name
+      value: sports type a color 3 Variant Variant Variant Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 5074734967765630289, guid: 8de93ecc5acfba747be67b3389b844cf, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5074734967765630289, guid: 8de93ecc5acfba747be67b3389b844cf, type: 3}
+      propertyPath: m_TagString
+      value: CarRoad
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 5390041452129453337, guid: 8de93ecc5acfba747be67b3389b844cf, type: 3}
+    - {fileID: 7578614874899673030, guid: 8de93ecc5acfba747be67b3389b844cf, type: 3}
+    - {fileID: 8619228842078484820, guid: 8de93ecc5acfba747be67b3389b844cf, type: 3}
+    - {fileID: 4364087321468718333, guid: 8de93ecc5acfba747be67b3389b844cf, type: 3}
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8de93ecc5acfba747be67b3389b844cf, type: 3}
