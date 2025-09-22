@@ -32,7 +32,7 @@
     <img src="Assets/ReadMe/Gifs/Win.gif" alt="Выйгрыш" height="450"/>
 </div>
 
-### -
+## 
 
 Не делайте так!!!
 <div align="center">
