@@ -25,14 +25,14 @@
     <img src="Assets/ReadMe/Arts/Picture1.png" alt="Гемплей" height="450"/>
 </div>
  
-### 
+### -
 
 Проходите уровни!
 <div align="center">
     <img src="Assets/ReadMe/Gifs/Win.gif" alt="Выйгрыш" height="450"/>
 </div>
 
-### 
+### -
 
 Не делайте так!!!
 <div align="center">
