@@ -21,7 +21,9 @@
 
 ## Гемплей
 Освободите парковку и отправляйте машины в нужную сторону, избегая столкновений с бордюром и другими автомобилями.
-![Гемплей](Assets/ReadMe/Arts/Picture1.png)
+<div align="center">
+    <img src="Assets/ReadMe/Arts/Picture1.png" alt="Utvgktq" width="350"/>
+</div>
 
 Проходите уровни!
 ![Выйгрыш](Assets/ReadMe/Gifs/Win.gif)
