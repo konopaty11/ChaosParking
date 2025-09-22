@@ -6,7 +6,7 @@
   <div style="margin-bottom: 20px;">
     <img src="Assets/ReadMe/Arts/Logo.png" 
          alt="Баннер проекта" 
-         style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); max-width: 150px; height: auto;">
+         style="border-radius: 8px; box-shadow: 0 4px 8px rgba(100,100,0,0.1); max-width: 150px; height: auto;">
   </div>
 
   <!-- Нижняя часть - текст -->
@@ -22,14 +22,18 @@
 ## Гемплей
 Освободите парковку и отправляйте машины в нужную сторону, избегая столкновений с бордюром и другими автомобилями.
 <div align="center">
-    <img src="Assets/ReadMe/Arts/Picture1.png" alt="Utvgktq" width="350"/>
+    <img src="Assets/ReadMe/Arts/Picture1.png" alt="Гемплей" height="450"/>
 </div>
 
 Проходите уровни!
-![Выйгрыш](Assets/ReadMe/Gifs/Win.gif)
+<div align="center">
+    <img src="Assets/ReadMe/Gifs/Win.gif" alt="Выйгрыш" height="450"/>
+</div>
 
 Не делайте так!!!
-![Проигрыш](Assets/ReadMe/Gifs/Loose.gif)
+<div align="center">
+    <img src="Assets/ReadMe/Gifs/Loose.gif" alt="Проигрыш" height="450"/>
+</div>
 
 <details> 
 <summary><h2>FAQ</h2></summary>
