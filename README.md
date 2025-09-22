@@ -6,7 +6,7 @@
   <div style="margin-bottom: 20px;">
     <img src="Assets/ReadMe/Arts/Logo.png" 
          alt="Баннер проекта" 
-         style="border-radius: 8px; box-shadow: 0 4px 8px rgba(255, 255, 0, 1); max-width: 150px; height: auto;">
+         width="250">
   </div>
 
   <!-- Нижняя часть - текст -->
